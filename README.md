@@ -1,1 +1,8 @@
-This repository is to showcase the use of Git and Github.
+# CS 2400 Project 0 
+
+## Emmanuel Ricardo
+
+
+## GitHub Repo. Link
+
+## Screen Recording
