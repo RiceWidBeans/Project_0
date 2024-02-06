@@ -3,6 +3,6 @@
 ## Emmanuel Ricardo
 
 
-## GitHub Repo. Link
+## [GitHub Repo. Link](https://github.com/RiceWidBeans/Project_0.git)
 
 ## Screen Recording
